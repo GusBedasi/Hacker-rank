@@ -9,7 +9,6 @@ def diagonalDifference(arr):
         #print(arr[i][i])
 
     counter = len(arr) -1 # === 2 
-    print(counter, len(arr))
     for i in range(len(arr)):
         rightToLeft.append(arr[i][counter])
         counter -= 1
