@@ -15,6 +15,7 @@ def diagonalDifference(arr):
 
     result = abs(sum(rightToLeft) - sum(leftToRight))
 
+    return result
     #print(leftToRight, " = ", sum(leftToRight))
     #print(rightToLeft, " = ", sum(rightToLeft))
     #print(sum(leftToRight), " - ", sum(rightToLeft), " = ", result)
