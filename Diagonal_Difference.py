@@ -9,13 +9,13 @@ def diagonalDifference(arr):
         #print(arr[i][i])
 
     counter = len(arr) -1 # === 2 
-    print(counter, len(arr))
     for i in range(len(arr)):
         rightToLeft.append(arr[i][counter])
         counter -= 1
 
     result = abs(sum(rightToLeft) - sum(leftToRight))
 
+    return result
     #print(leftToRight, " = ", sum(leftToRight))
     #print(rightToLeft, " = ", sum(rightToLeft))
     #print(sum(leftToRight), " - ", sum(rightToLeft), " = ", result)
