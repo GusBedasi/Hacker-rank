@@ -11,3 +11,4 @@ Repository made to store my codes done to solve hackers rank puzzles.
 * https://www.hackerrank.com/challenges/staircase/problem - staircase.py
 * https://www.hackerrank.com/challenges/mini-max-sum/problem - min_max_sum.py
 * https://www.hackerrank.com/challenges/birthday-cake-candles/problem - birthdayCakeCandles.py
+* https://www.hackerrank.com/challenges/time-conversion/problem - timeConversion.py
