@@ -15,3 +15,9 @@ Repository made to store my codes done to solve hackers rank puzzles.
 * https://www.hackerrank.com/challenges/grading/problem - GradingStudentes.py
 * https://www.hackerrank.com/challenges/apple-and-orange/ - countApplesAndOranges.py
 * https://www.hackerrank.com/challenges/kangaroo/problem - kangaroo.py
+
+# Disclaimer
+
+Maybe if you copy and paste my codes on the link of its respectives problems won't work becaseu there's a little difference, on the hackerrank site it is necessary to return a value, in my code i print them, when necessary i change to finish the challenge.
+
+It is recommended to you think by yourself to improve your logical thinking, do not copy and paste!
