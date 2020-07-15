@@ -13,3 +13,4 @@ Repository made to store my codes done to solve hackers rank puzzles.
 * https://www.hackerrank.com/challenges/birthday-cake-candles/problem - birthdayCakeCandles.py
 * https://www.hackerrank.com/challenges/time-conversion/problem - timeConversion.py
 * https://www.hackerrank.com/challenges/grading/problem - GradingStudentes.py
+* https://www.hackerrank.com/challenges/apple-and-orange/ - countApplesAndOranges.py
