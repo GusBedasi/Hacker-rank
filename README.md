@@ -16,6 +16,7 @@ Repository made to store my codes done to solve hackers rank puzzles.
 * https://www.hackerrank.com/challenges/apple-and-orange/ - countApplesAndOranges.py
 * https://www.hackerrank.com/challenges/kangaroo/problem - kangaroo.py
 * https://www.hackerrank.com/challenges/sock-merchant/problem - sockMerchant.py
+* https://www.hackerrank.com/challenges/counting-valleys/problem - coutingValleys.py
 
 # Disclaimer
 
