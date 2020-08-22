@@ -4,6 +4,8 @@ Repository made to store my codes done to solve hackers rank puzzles.
 
 # Link do exercícios feitos para contextualização:
 
+### Python
+
 * https://www.hackerrank.com/challenges/diagonal-difference/problem?h_r=profile - Diagonal_Difference.py
 * https://www.hackerrank.com/challenges/find-point/problem - plus_minus.py ==> Point reflection
 * https://www.hackerrank.com/challenges/plus-minus/problem - plusMinus.py 
@@ -17,6 +19,10 @@ Repository made to store my codes done to solve hackers rank puzzles.
 * https://www.hackerrank.com/challenges/kangaroo/problem - kangaroo.py
 * https://www.hackerrank.com/challenges/sock-merchant/problem - sockMerchant.py
 * https://www.hackerrank.com/challenges/counting-valleys/problem - coutingValleys.py
+
+### Javascript
+
+* https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup - jumpingontheClouds.js
 
 # Disclaimer
 
